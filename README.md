@@ -1,4 +1,4 @@
-# Laravel 8 Livewire 美麗的 Toast 刷新通知
+# Laravel 9 Livewire 美麗的 Toast 刷新通知
 
 引入 usernotnull 的 tall-toasts 套件來擴增美麗的 Toast 刷新通知，達到非阻塞通知。
 
