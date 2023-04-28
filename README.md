@@ -1,4 +1,4 @@
-# Laravel 9 Livewire 美麗的 Toast 刷新通知
+# Laravel 10 Livewire 美麗的 Toast 刷新通知
 
 引入 usernotnull 的 tall-toasts 套件來擴增美麗的 Toast 刷新通知，達到非阻塞通知。
 
@@ -31,5 +31,5 @@ $ npm install && npm run dev
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/fSRoal0.gif)
+![](https://i.imgur.com/MZyxQQ6.gif)
 > 使用現有的帳號登入後，進入儀表板頁面並同時傳送登入成功通知
