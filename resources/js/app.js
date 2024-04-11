@@ -1,11 +1,7 @@
 import './bootstrap';
-
-import Alpine from 'alpinejs';
-import focus from '@alpinejs/focus';
+import {Alpine, Livewire} from '../../vendor/livewire/livewire/dist/livewire.esm';
 import ToastComponent from '../../vendor/usernotnull/tall-toasts/resources/js/tall-toasts';
-Alpine.data('ToastComponent', ToastComponent);
-window.Alpine = Alpine;
 
-Alpine.plugin(focus);
+Alpine.plugin(ToastComponent);
 
-Alpine.start();
+Livewire.start();
